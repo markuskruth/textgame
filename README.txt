@@ -1,5 +1,3 @@
-Tämä tiedosto kannattaa avata notepadissa tai muussa tekstieditorissa joka rivittää tämän. Kivempi lukea
-
 HUOM assari disclaimer: pelin taiselut vaativat strategian lisäksi hieman tuuria, jonka takia niitä voi yrittää loputtoman monta kertaa häviämättä peliä. Assaria varten on kuitenkin luotu "oneshot" isku, jolla voi kukistaa minkä tahansa vihollisen samantien. Taistelut ovat kuitenkin iso osa peliä ja jokainen taistelu on erilainen. Tämän takia suosittelemme kokeilemaan jokaista taistelua ainakin hieman ennen niiden skippaamista. Läpäisyohjeen jälkeen tulee taisteluohjeet ja niitä kannattaa käyttää peliä läpäistessä. Jokaisessa taistelussa on oma tapa läpäistä se ja jokaiselle taistelulle on omat ohjeet jotka löytyvät samasta tiedostosta hieman alempaa.
 
 Läpäisyohje:
